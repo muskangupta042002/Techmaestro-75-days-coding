@@ -35,9 +35,9 @@ public:
         
         for(int i=1;i<=n;i++)
         {
-            for(int j=1;j<s+1;j++)
+            for(int j=0;j<s+1;j++)
             {
-                if(nums[i-1]<=j && nums[i-1]!=0)
+                if(nums[i-1]<=j )
                 {
                     dp[i][j]=dp[i-1][j]+dp[i-1][j-nums[i-1]];
                 }
@@ -47,6 +47,6 @@ public:
                 }
             }
         }
-        return pow(2,zero)*dp[n][s];
+        return dp[n][s];
     }
 };
