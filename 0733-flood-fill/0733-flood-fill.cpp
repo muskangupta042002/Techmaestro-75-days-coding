@@ -6,10 +6,18 @@ public:
         }
         image[sr][sc]=newColor;
         
-        dfs(sr+1,sc,image,newColor,oldColor);
-        dfs(sr,sc-1,image,newColor,oldColor);
-        dfs(sr,sc+1,image,newColor,oldColor);
-        dfs(sr-1,sc,image,newColor,oldColor);
+        int dr[4]={0,1,-1,0};
+        int dc[4]={1,0,0,-1};
+        for(int i=0;i<4;i++){
+            int r=sr+dr[i], c=sc+dc[i];
+            if(r>=0 && c>=0 && r<image.size() && c<image[0].size()){
+                dfs(r,c,image,newColor,oldColor);
+            }
+        }
+        // dfs(sr+1,sc,image,newColor,oldColor);
+        // dfs(sr,sc-1,image,newColor,oldColor);
+        // dfs(sr,sc+1,image,newColor,oldColor);
+        // dfs(sr-1,sc,image,newColor,oldColor);
     }
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         if(image[sr][sc]==color){
