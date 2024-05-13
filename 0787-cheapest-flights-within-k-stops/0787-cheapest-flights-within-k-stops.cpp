@@ -6,7 +6,7 @@ public:
             adj[flights[i][0]].push_back({flights[i][1],flights[i][2]});
             
         }
-       queue<pair<int,pair<int,int>>> q;
+       priority_queue<pair<int,pair<int,int>>, vector<pair<int,pair<int,int>>>, greater<pair<int,pair<int,int>>>> q;
         //int n=flights.size();
         
          vector<int>dist(n,1e9);
@@ -17,17 +17,17 @@ public:
         dist[src]=0;
         q.push({0,{src,0}});
         while(!q.empty()){
-            auto it=q.front();
+            auto it=q.top();
             q.pop();
-            int sum=it.first;
+            int sum=it.second.second;
             int node=it.second.first;
-            int diff=it.second.second;
+            int diff=it.first;
             
             for(auto a: adj[node]){
                 
                 if(diff<=k && dist[a.first]>sum+a.second){
                     dist[a.first]=sum+a.second;
-                    q.push({sum+a.second,{a.first,diff+1}});
+                    q.push({diff+1,{a.first,sum+a.second}});
                 }
             }
         }
