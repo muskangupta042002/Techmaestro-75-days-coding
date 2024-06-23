@@ -15,7 +15,16 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0037-sudoku-solver) |
+| [0131-palindrome-partitioning](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0131-palindrome-partitioning) |
 # Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0037-sudoku-solver) |
+# String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0131-palindrome-partitioning) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0131-palindrome-partitioning) |
