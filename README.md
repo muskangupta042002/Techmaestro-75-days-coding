@@ -9,6 +9,7 @@ Solutions are in C++, Java, Scala
 | [0037-sudoku-solver](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0139-word-break) |
+| [0216-combination-sum-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0216-combination-sum-iii) |
 # Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ Solutions are in C++, Java, Scala
 | [0037-sudoku-solver](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0216-combination-sum-iii) |
 # Matrix
 |  |
 | ------- |
