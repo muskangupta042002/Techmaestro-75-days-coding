@@ -46,3 +46,10 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0139-word-break](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0139-word-break) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
