@@ -3,7 +3,7 @@ public:
     int helper(int ind, vector<int>& nums, int sum, vector<int>& dp) {
         
         if (ind >= nums.size()) {
-            return 0;
+            return sum;
         }
         if (dp[ind] != -1) {
             return dp[ind];
