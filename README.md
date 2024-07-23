@@ -52,6 +52,7 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0213-house-robber-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -91,6 +92,7 @@ Solutions are in C++, Java, Scala
 | ------- |
 | [0062-unique-paths](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0213-house-robber-ii) |
 ## Math
@@ -105,4 +107,5 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
