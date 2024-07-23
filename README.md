@@ -88,6 +88,15 @@ Solutions are in C++, Java, Scala
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0213-house-robber-ii) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
