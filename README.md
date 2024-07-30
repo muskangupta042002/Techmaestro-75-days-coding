@@ -60,6 +60,7 @@ Solutions are in C++, Java, Scala
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0416-partition-equal-subset-sum) |
 | [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
+| [1036-rotting-oranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1036-rotting-oranges) |
 | [1293-three-consecutive-odds](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
@@ -121,6 +122,7 @@ Solutions are in C++, Java, Scala
 | ------- |
 | [0063-unique-paths-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0064-minimum-path-sum) |
+| [1036-rotting-oranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1036-rotting-oranges) |
 ## String
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
