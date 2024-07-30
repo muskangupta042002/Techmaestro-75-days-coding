@@ -56,6 +56,7 @@ Solutions are in C++, Java, Scala
 | [0120-triangle](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0213-house-robber-ii) |
+| [0307-range-sum-query-mutable](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0307-range-sum-query-mutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0416-partition-equal-subset-sum) |
 | [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
@@ -139,4 +140,16 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
