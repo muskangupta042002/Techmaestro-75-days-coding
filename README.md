@@ -152,4 +152,20 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0307-range-sum-query-mutable) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
