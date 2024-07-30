@@ -58,6 +58,7 @@ Solutions are in C++, Java, Scala
 | [0213-house-robber-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0213-house-robber-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0416-partition-equal-subset-sum) |
+| [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
 | [1293-three-consecutive-odds](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
@@ -72,6 +73,7 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +110,7 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0062-unique-paths) |
+| [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
 ## Combinatorics
 |  |
 | ------- |
@@ -128,4 +131,12 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0044-wildcard-matching) |
+## Prefix Sum
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
