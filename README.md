@@ -161,11 +161,13 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0820-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
@@ -175,4 +177,9 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
