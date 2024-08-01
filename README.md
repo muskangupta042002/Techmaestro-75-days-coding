@@ -164,6 +164,7 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0820-find-eventual-safe-states) |
 ## Breadth-First Search
@@ -172,6 +173,7 @@ Solutions are in C++, Java, Scala
 | [0127-word-ladder](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0127-word-ladder) |
 | [0542-01-matrix](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1036-rotting-oranges) |
@@ -183,6 +185,7 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
@@ -192,9 +195,11 @@ Solutions are in C++, Java, Scala
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
