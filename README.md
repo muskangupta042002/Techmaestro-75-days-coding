@@ -180,6 +180,7 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0127-word-ladder](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0127-word-ladder) |
 | [0542-01-matrix](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0547-number-of-provinces) |
@@ -223,10 +224,12 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
