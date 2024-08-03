@@ -168,6 +168,7 @@ Solutions are in C++, Java, Scala
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0744-network-delay-time) |
@@ -178,6 +179,7 @@ Solutions are in C++, Java, Scala
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0100-same-tree) |
 | [0127-word-ladder](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0127-word-ladder) |
 | [0542-01-matrix](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0547-number-of-provinces) |
@@ -220,9 +222,11 @@ Solutions are in C++, Java, Scala
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
