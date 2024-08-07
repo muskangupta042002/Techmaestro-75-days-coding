@@ -10,7 +10,12 @@ public:
             if(nums[mid]==target){
                 return mid;
             }
-            else if(nums[i]<=nums[mid]){
+            if(nums[i]==nums[mid] && nums[mid]==nums[j]){
+                i=i+1;
+                j=j-1; //reduce search space for edge case 3 2 3 3 3 if finding 2
+                continue;
+            }
+            if(nums[i]<=nums[mid]){
                 if(nums[i]<=target && target<=nums[mid]){
                     j=mid-1;
                 }
