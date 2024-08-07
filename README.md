@@ -54,6 +54,7 @@ Solutions are in C++, Java, Scala
 | [0033-search-in-rotated-sorted-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0064-minimum-path-sum) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0213-house-robber-ii) |
@@ -85,6 +86,7 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
