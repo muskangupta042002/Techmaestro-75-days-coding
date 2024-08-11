@@ -64,6 +64,7 @@ Solutions are in C++, Java, Scala
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0416-partition-equal-subset-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0721-accounts-merge) |
 | [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
@@ -91,6 +92,7 @@ Solutions are in C++, Java, Scala
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
 ## Sorting
 |  |
