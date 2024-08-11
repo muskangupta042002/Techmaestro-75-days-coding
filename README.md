@@ -57,6 +57,7 @@ Solutions are in C++, Java, Scala
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0300-longest-increasing-subsequence) |
@@ -90,6 +91,7 @@ Solutions are in C++, Java, Scala
 | [0033-search-in-rotated-sorted-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0540-single-element-in-a-sorted-array) |
