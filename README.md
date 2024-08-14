@@ -51,6 +51,7 @@ Solutions are in C++, Java, Scala
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0064-minimum-path-sum) |
@@ -92,6 +93,7 @@ Solutions are in C++, Java, Scala
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -274,4 +276,8 @@ Solutions are in C++, Java, Scala
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
