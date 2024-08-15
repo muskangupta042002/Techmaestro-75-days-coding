@@ -81,6 +81,7 @@ Solutions are in C++, Java, Scala
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0127-word-ladder) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0721-accounts-merge](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0721-accounts-merge) |
@@ -169,6 +170,7 @@ Solutions are in C++, Java, Scala
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0044-wildcard-matching) |
 | [0127-word-ladder](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0516-longest-palindromic-subsequence) |
@@ -280,4 +282,8 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0004-median-of-two-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
