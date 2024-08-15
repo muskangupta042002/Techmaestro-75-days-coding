@@ -73,6 +73,7 @@ Solutions are in C++, Java, Scala
 | [0907-koko-eating-bananas](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
 | [1036-rotting-oranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1104-coloring-a-border](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1104-coloring-a-border) |
 | [1293-three-consecutive-odds](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1293-three-consecutive-odds) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -105,6 +106,7 @@ Solutions are in C++, Java, Scala
 | [0540-single-element-in-a-sorted-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
+| [1046-max-consecutive-ones-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Sorting
@@ -186,6 +188,7 @@ Solutions are in C++, Java, Scala
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0410-split-array-largest-sum) |
 | [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
+| [1046-max-consecutive-ones-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1046-max-consecutive-ones-iii) |
 ## Randomized
 |  |
 | ------- |
@@ -286,4 +289,5 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
