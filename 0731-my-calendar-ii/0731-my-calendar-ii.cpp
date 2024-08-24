@@ -12,7 +12,7 @@ public:
         int c=0;
         for(auto it:mp){
             c+=it.second;
-            if(c==3){
+            if(c>2){
                 mp[start]--;
                 mp[end]++;
                 return false;
