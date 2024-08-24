@@ -89,6 +89,7 @@ Solutions are in C++, Java, Scala
 | [0127-word-ladder](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0460-lfu-cache](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0721-accounts-merge) |
 | [0966-binary-subarrays-with-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0966-binary-subarrays-with-sum) |
@@ -134,6 +135,7 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0460-lfu-cache) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
@@ -209,6 +211,7 @@ Solutions are in C++, Java, Scala
 | ------- |
 | [0146-lru-cache](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0146-lru-cache) |
 | [0307-range-sum-query-mutable](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0307-range-sum-query-mutable) |
+| [0460-lfu-cache](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0460-lfu-cache) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -308,4 +311,5 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
