@@ -82,6 +82,7 @@ Solutions are in C++, Java, Scala
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1983-maximum-population-year](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1983-maximum-population-year) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +203,7 @@ Solutions are in C++, Java, Scala
 | [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1046-max-consecutive-ones-iii) |
+| [1983-maximum-population-year](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1983-maximum-population-year) |
 ## Randomized
 |  |
 | ------- |
@@ -312,4 +314,8 @@ Solutions are in C++, Java, Scala
 | ------- |
 | [0146-lru-cache](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0460-lfu-cache) |
+## Counting
+|  |
+| ------- |
+| [1983-maximum-population-year](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1983-maximum-population-year) |
 <!---LeetCode Topics End-->
