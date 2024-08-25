@@ -85,6 +85,7 @@ Solutions are in C++, Java, Scala
 | [1293-three-consecutive-odds](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1983-maximum-population-year](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1983-maximum-population-year) |
@@ -196,6 +197,7 @@ Solutions are in C++, Java, Scala
 | [0542-01-matrix](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1104-coloring-a-border) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## String
 |  |
 | ------- |
@@ -273,6 +275,7 @@ Solutions are in C++, Java, Scala
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1104-coloring-a-border) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Union Find
 |  |
