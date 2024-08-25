@@ -74,6 +74,7 @@ Solutions are in C++, Java, Scala
 | [0560-subarray-sum-equals-k](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0721-accounts-merge) |
 | [0731-my-calendar-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0731-my-calendar-ii) |
+| [0860-design-circular-queue](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0966-binary-subarrays-with-sum) |
@@ -147,6 +148,7 @@ Solutions are in C++, Java, Scala
 | ------- |
 | [0146-lru-cache](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0460-lfu-cache) |
+| [0860-design-circular-queue](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0860-design-circular-queue) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
@@ -228,6 +230,7 @@ Solutions are in C++, Java, Scala
 | [0307-range-sum-query-mutable](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0307-range-sum-query-mutable) |
 | [0460-lfu-cache](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0460-lfu-cache) |
 | [0731-my-calendar-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0731-my-calendar-ii) |
+| [0860-design-circular-queue](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0860-design-circular-queue) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -337,4 +340,8 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
