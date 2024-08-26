@@ -111,6 +111,7 @@ Solutions are in C++, Java, Scala
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -133,6 +134,7 @@ Solutions are in C++, Java, Scala
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0435-non-overlapping-intervals) |
@@ -238,6 +240,7 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0307-range-sum-query-mutable) |
 | [0460-lfu-cache](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0460-lfu-cache) |
 | [0731-my-calendar-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0731-my-calendar-ii) |
@@ -308,6 +311,7 @@ Solutions are in C++, Java, Scala
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0295-find-median-from-data-stream) |
 | [0744-network-delay-time](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1014-k-closest-points-to-origin) |
@@ -368,4 +372,8 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1014-k-closest-points-to-origin) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
