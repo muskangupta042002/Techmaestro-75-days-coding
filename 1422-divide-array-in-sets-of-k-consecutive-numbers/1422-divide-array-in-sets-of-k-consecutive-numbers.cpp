@@ -1,28 +1,38 @@
 class Solution {
 public:
     bool isPossibleDivide(vector<int>& nums, int k) {
-        
-        int n=nums.size();
-        if(n%k!=0){
+        if(k==1) return true;
+        int n = nums.size();
+        if (n % k != 0) {
             return false;
         }
-        map<int,int> mp;
-        for(auto num:nums){
-            mp[num]++;
-        }
+        priority_queue<pair<int, int>, vector<pair<int, int>>,
+                       greater<pair<int, int>>>
+            pq;
 
-        int s=n/k;
-        for(auto it: mp){
-            if(it.second>0){
-                for(int i=k-1;i>=0;--i){
-                    //cout<<(mp[it.first+i]-=mp[it.first]);
-                    if((mp[it.first+i]-=mp[it.first]) < 0){
-                        return false;
+        sort(nums.begin(), nums.end());
+        for (int i = 0; i < n; i++) {
+            if (pq.size() == 0) {
+                pq.push({nums[i] + 1, 1});
+            } else {
+                int need = pq.top().first;
+                int sz = pq.top().second;
+                int curr = nums[i];
+                if (need < curr)
+                    return false;
+                if (need > curr)
+                    pq.push({curr + 1, 1});
+                else if (need == curr) {
+                    pq.pop();
+                    if (sz + 1 == k) {
+                        continue;
                     }
+                    pq.push({curr + 1, sz + 1});
                 }
             }
         }
-        return true;
-
+        if (pq.size() == 0)
+            return true;
+        return false;
     }
 };
