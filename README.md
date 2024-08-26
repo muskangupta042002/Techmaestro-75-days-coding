@@ -87,6 +87,7 @@ Solutions are in C++, Java, Scala
 | [1370-count-number-of-nice-subarrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1983-maximum-population-year](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1983-maximum-population-year) |
@@ -105,6 +106,7 @@ Solutions are in C++, Java, Scala
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1370-count-number-of-nice-subarrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1370-count-number-of-nice-subarrays) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [3034-points-that-intersect-with-cars](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3034-points-that-intersect-with-cars) |
 ## Two Pointers
 |  |
@@ -138,6 +140,7 @@ Solutions are in C++, Java, Scala
 | [0721-accounts-merge](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Greedy
 |  |
@@ -146,6 +149,7 @@ Solutions are in C++, Java, Scala
 | [0410-split-array-largest-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
 |  |
