@@ -27,7 +27,7 @@ public:
             vector<int> newLeaves;
             for(int leaf: leaves){
                 int nextNode = *(adj[leaf].begin());
-                 adj[nextNode].erase(remove(adj[nextNode].begin(), adj[nextNode].end(), leaf), adj[nextNode].end());
+                std::erase(adj[nextNode],leaf);
                 if(adj[nextNode].size()==1){
                     newLeaves.push_back(nextNode);
                 }
