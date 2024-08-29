@@ -38,10 +38,21 @@ public:
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
         
-        // DP table to store the results for each state
-        vector<vector<int>> dp(n, vector<int>(2, -1));
-        
+        vector<vector<int>> dp(n + 2, vector<int>(2, 0));
+
         // Start at day 0, with the option to buy
-        return helper(0, 1, prices, dp);
+        // return helper(0, 1, prices, dp, fee);
+        dp[n][0] = 0, dp[n][1] = 0;
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = 0; j < 2; j++) {
+                if (j) {
+                    dp[i][j] = max(-prices[i] + dp[i + 1][!j], dp[i + 1][j]);
+                } else {
+                    dp[i][j] =
+                        max(prices[i] + dp[i + 2][!j], dp[i + 1][j]);
+                }
+            }
+        }
+        return dp[0][1];
     }
 };
