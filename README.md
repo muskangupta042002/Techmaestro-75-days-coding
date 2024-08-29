@@ -53,6 +53,7 @@ Solutions are in C++, Java, Scala
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -117,6 +118,7 @@ Solutions are in C++, Java, Scala
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -175,6 +177,7 @@ Solutions are in C++, Java, Scala
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0063-unique-paths-ii) |
@@ -394,4 +397,12 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0295-find-median-from-data-stream) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
