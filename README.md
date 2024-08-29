@@ -83,6 +83,7 @@ Solutions are in C++, Java, Scala
 | [0907-koko-eating-bananas](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0966-binary-subarrays-with-sum) |
+| [0976-minimum-area-rectangle](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1046-max-consecutive-ones-iii) |
@@ -107,6 +108,7 @@ Solutions are in C++, Java, Scala
 | [0560-subarray-sum-equals-k](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0721-accounts-merge) |
 | [0966-binary-subarrays-with-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0966-binary-subarrays-with-sum) |
+| [0976-minimum-area-rectangle](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0976-minimum-area-rectangle) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1370-count-number-of-nice-subarrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1370-count-number-of-nice-subarrays) |
@@ -144,6 +146,7 @@ Solutions are in C++, Java, Scala
 | [0435-non-overlapping-intervals](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0721-accounts-merge](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0721-accounts-merge) |
+| [0976-minimum-area-rectangle](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -200,6 +203,7 @@ Solutions are in C++, Java, Scala
 | [0062-unique-paths](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0368-largest-divisible-subset) |
 | [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
+| [0976-minimum-area-rectangle](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1370-count-number-of-nice-subarrays) |
 ## Combinatorics
@@ -380,6 +384,7 @@ Solutions are in C++, Java, Scala
 ## Geometry
 |  |
 | ------- |
+| [0976-minimum-area-rectangle](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
