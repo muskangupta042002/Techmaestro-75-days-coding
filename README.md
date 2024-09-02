@@ -98,6 +98,7 @@ Solutions are in C++, Java, Scala
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1753-path-with-minimum-effort](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1753-path-with-minimum-effort) |
 | [1983-maximum-population-year](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1983-maximum-population-year) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3034-points-that-intersect-with-cars) |
@@ -143,6 +144,7 @@ Solutions are in C++, Java, Scala
 | [1046-max-consecutive-ones-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1753-path-with-minimum-effort](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1753-path-with-minimum-effort) |
 ## Sorting
 |  |
 | ------- |
@@ -231,6 +233,7 @@ Solutions are in C++, Java, Scala
 | [1036-rotting-oranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1104-coloring-a-border) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1753-path-with-minimum-effort](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1753-path-with-minimum-effort) |
 ## String
 |  |
 | ------- |
@@ -297,6 +300,7 @@ Solutions are in C++, Java, Scala
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1104-coloring-a-border](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1104-coloring-a-border) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -317,6 +321,7 @@ Solutions are in C++, Java, Scala
 | [1104-coloring-a-border](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1104-coloring-a-border) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -324,6 +329,7 @@ Solutions are in C++, Java, Scala
 | [0721-accounts-merge](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -347,6 +353,7 @@ Solutions are in C++, Java, Scala
 | [0744-network-delay-time](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1014-k-closest-points-to-origin) |
+| [1753-path-with-minimum-effort](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
