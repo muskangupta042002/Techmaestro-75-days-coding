@@ -22,10 +22,10 @@ public:
                 int nrow = x + dr[i];
                 int ncol = y + dc[i];
                 if (nrow >= 0 and nrow < n and ncol >= 0 and ncol < m) {
-                    int newDiff= max(dist,abs(heights[x][y]-ans[nrow][ncol]));
+                    int newDiff= max(dist,abs(heights[x][y]-heights[nrow][ncol]));
                     if(newDiff < ans[nrow][ncol]){
-                        ans[nrow][ncol] = dist ;
-                        q.push({dist, {nrow, ncol}});
+                        ans[nrow][ncol] = newDiff ;
+                        q.push({newDiff, {nrow, ncol}});
                     }
                     
                 }
