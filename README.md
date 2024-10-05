@@ -116,6 +116,7 @@ Solutions are in C++, Java, Scala
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0460-lfu-cache](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0721-accounts-merge) |
 | [0966-binary-subarrays-with-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0966-binary-subarrays-with-sum) |
 | [0976-minimum-area-rectangle](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0976-minimum-area-rectangle) |
@@ -136,6 +137,7 @@ Solutions are in C++, Java, Scala
 | [0042-trapping-rain-water](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -255,6 +257,7 @@ Solutions are in C++, Java, Scala
 | [0044-wildcard-matching](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0044-wildcard-matching) |
 | [0127-word-ladder](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0721-accounts-merge) |
 | [1170-shortest-common-supersequence](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -402,6 +405,7 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1370-count-number-of-nice-subarrays) |
