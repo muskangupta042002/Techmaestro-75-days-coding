@@ -105,6 +105,7 @@ Solutions are in C++, Java, Scala
 | [1923-sentence-similarity-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1923-sentence-similarity-iii) |
 | [1983-maximum-population-year](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1983-maximum-population-year) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3034-points-that-intersect-with-cars](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3034-points-that-intersect-with-cars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -140,6 +141,7 @@ Solutions are in C++, Java, Scala
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1923-sentence-similarity-iii) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -175,6 +177,7 @@ Solutions are in C++, Java, Scala
 | [1256-rank-transform-of-an-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1256-rank-transform-of-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
@@ -187,6 +190,7 @@ Solutions are in C++, Java, Scala
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Linked List
 |  |
 | ------- |
@@ -280,6 +284,7 @@ Solutions are in C++, Java, Scala
 | [1694-make-sum-divisible-by-p](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1694-make-sum-divisible-by-p) |
 | [1983-maximum-population-year](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1983-maximum-population-year) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3034-points-that-intersect-with-cars](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3034-points-that-intersect-with-cars) |
 ## Randomized
 |  |
@@ -375,6 +380,7 @@ Solutions are in C++, Java, Scala
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1014-k-closest-points-to-origin) |
 | [1753-path-with-minimum-effort](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1753-path-with-minimum-effort) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Shortest Path
 |  |
 | ------- |
