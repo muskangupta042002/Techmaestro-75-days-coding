@@ -270,6 +270,7 @@ Solutions are in C++, Java, Scala
 | [0567-permutation-in-string](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0721-accounts-merge) |
 | [1170-shortest-common-supersequence](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1170-shortest-common-supersequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1923-sentence-similarity-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1923-sentence-similarity-iii) |
 ## Recursion
