@@ -83,6 +83,7 @@ Solutions are in C++, Java, Scala
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0721-accounts-merge) |
 | [0731-my-calendar-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0787-sliding-puzzle) |
 | [0860-design-circular-queue](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
@@ -256,6 +257,7 @@ Solutions are in C++, Java, Scala
 | [0064-minimum-path-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0064-minimum-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0542-01-matrix) |
+| [0787-sliding-puzzle](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1104-coloring-a-border) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -345,6 +347,7 @@ Solutions are in C++, Java, Scala
 | [0662-maximum-width-of-binary-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0744-network-delay-time) |
+| [0787-sliding-puzzle](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
