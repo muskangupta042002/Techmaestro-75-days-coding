@@ -152,6 +152,7 @@ Solutions are in C++, Java, Scala
 | [2232-adding-spaces-to-a-string](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
 | ------- |
@@ -288,6 +289,7 @@ Solutions are in C++, Java, Scala
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1923-sentence-similarity-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1923-sentence-similarity-iii) |
 | [2232-adding-spaces-to-a-string](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2232-adding-spaces-to-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Recursion
 |  |
 | ------- |
