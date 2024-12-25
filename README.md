@@ -69,6 +69,7 @@ Solutions are in C++, Java, Scala
 | [0300-longest-increasing-subsequence](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0347-top-k-frequent-elements](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0410-split-array-largest-sum) |
@@ -120,6 +121,7 @@ Solutions are in C++, Java, Scala
 | [0003-longest-substring-without-repeating-characters](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0460-lfu-cache](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0560-subarray-sum-equals-k) |
@@ -178,6 +180,7 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0435-non-overlapping-intervals) |
@@ -402,6 +405,7 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -438,6 +442,7 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1014-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
@@ -456,6 +461,7 @@ Solutions are in C++, Java, Scala
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0347-top-k-frequent-elements) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1983-maximum-population-year](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1983-maximum-population-year) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
@@ -475,6 +481,7 @@ Solutions are in C++, Java, Scala
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1014-k-closest-points-to-origin) |
 ## Data Stream
 |  |
@@ -498,4 +505,8 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
