@@ -77,6 +77,7 @@ Solutions are in C++, Java, Scala
 | [0417-pacific-atlantic-water-flow](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0494-target-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0560-subarray-sum-equals-k) |
@@ -245,6 +246,7 @@ Solutions are in C++, Java, Scala
 | [0410-split-array-largest-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -509,4 +511,8 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
