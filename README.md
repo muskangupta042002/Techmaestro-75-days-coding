@@ -108,6 +108,7 @@ Solutions are in C++, Java, Scala
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1694-make-sum-divisible-by-p) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1753-path-with-minimum-effort](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1753-path-with-minimum-effort) |
 | [1923-sentence-similarity-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1923-sentence-similarity-iii) |
 | [1983-maximum-population-year](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1983-maximum-population-year) |
@@ -256,6 +257,7 @@ Solutions are in C++, Java, Scala
 | [1170-shortest-common-supersequence](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Math
 |  |
 | ------- |
@@ -295,6 +297,7 @@ Solutions are in C++, Java, Scala
 | [1302-delete-characters-to-make-fancy-string](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1923-sentence-similarity-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1923-sentence-similarity-iii) |
 | [2232-adding-spaces-to-a-string](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2232-adding-spaces-to-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
