@@ -296,6 +296,7 @@ Solutions are in C++, Java, Scala
 | [1170-shortest-common-supersequence](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1923-sentence-similarity-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1923-sentence-similarity-iii) |
@@ -314,6 +315,7 @@ Solutions are in C++, Java, Scala
 | [0912-random-pick-with-weight](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1046-max-consecutive-ones-iii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1694-make-sum-divisible-by-p) |
 | [1983-maximum-population-year](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1983-maximum-population-year) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
