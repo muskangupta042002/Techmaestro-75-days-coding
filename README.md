@@ -148,6 +148,7 @@ Solutions are in C++, Java, Scala
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3034-points-that-intersect-with-cars](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3034-points-that-intersect-with-cars) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -312,6 +313,7 @@ Solutions are in C++, Java, Scala
 | [2465-shifting-letters-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -488,6 +490,7 @@ Solutions are in C++, Java, Scala
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1983-maximum-population-year](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1983-maximum-population-year) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Ordered Set
 |  |
 | ------- |
