@@ -119,6 +119,7 @@ Solutions are in C++, Java, Scala
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3034-points-that-intersect-with-cars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -147,6 +148,7 @@ Solutions are in C++, Java, Scala
 | [1694-make-sum-divisible-by-p](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1694-make-sum-divisible-by-p) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3034-points-that-intersect-with-cars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -540,4 +542,8 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0494-target-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
