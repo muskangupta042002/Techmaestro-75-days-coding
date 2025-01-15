@@ -221,6 +221,7 @@ Solutions are in C++, Java, Scala
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2509-minimize-xor](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2509-minimize-xor) |
 ## Linked List
 |  |
 | ------- |
@@ -545,5 +546,6 @@ Solutions are in C++, Java, Scala
 ## Bit Manipulation
 |  |
 | ------- |
+| [2509-minimize-xor](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
