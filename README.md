@@ -117,6 +117,7 @@ Solutions are in C++, Java, Scala
 | [2358-number-of-ways-to-split-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -547,5 +548,10 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [2509-minimize-xor](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
