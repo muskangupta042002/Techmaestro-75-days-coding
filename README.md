@@ -103,6 +103,7 @@ Solutions are in C++, Java, Scala
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -294,6 +295,7 @@ Solutions are in C++, Java, Scala
 | [1036-rotting-oranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1104-coloring-a-border) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1753-path-with-minimum-effort) |
 ## String
 |  |
@@ -405,6 +407,7 @@ Solutions are in C++, Java, Scala
 | [1104-coloring-a-border](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1104-coloring-a-border) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
@@ -425,6 +428,7 @@ Solutions are in C++, Java, Scala
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -439,6 +443,7 @@ Solutions are in C++, Java, Scala
 | [0744-network-delay-time](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1014-k-closest-points-to-origin) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1753-path-with-minimum-effort) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Shortest Path
@@ -447,6 +452,7 @@ Solutions are in C++, Java, Scala
 | [0744-network-delay-time](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
