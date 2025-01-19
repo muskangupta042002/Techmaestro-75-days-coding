@@ -72,6 +72,7 @@ Solutions are in C++, Java, Scala
 | [0347-top-k-frequent-elements](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0417-pacific-atlantic-water-flow) |
@@ -289,6 +290,7 @@ Solutions are in C++, Java, Scala
 | ------- |
 | [0063-unique-paths-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0064-minimum-path-sum) |
+| [0407-trapping-rain-water-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0787-sliding-puzzle) |
@@ -392,6 +394,7 @@ Solutions are in C++, Java, Scala
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0127-word-ladder](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0127-word-ladder) |
 | [0310-minimum-height-trees](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0310-minimum-height-trees) |
+| [0407-trapping-rain-water-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0542-01-matrix) |
@@ -439,6 +442,7 @@ Solutions are in C++, Java, Scala
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0803-cheapest-flights-within-k-stops) |
