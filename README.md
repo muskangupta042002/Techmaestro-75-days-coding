@@ -100,6 +100,7 @@ Solutions are in C++, Java, Scala
 | [1256-rank-transform-of-an-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1370-count-number-of-nice-subarrays) |
+| [1396-count-servers-that-communicate](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -299,6 +300,7 @@ Solutions are in C++, Java, Scala
 | [0787-sliding-puzzle](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1104-coloring-a-border) |
+| [1396-count-servers-that-communicate](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1753-path-with-minimum-effort) |
@@ -390,6 +392,7 @@ Solutions are in C++, Java, Scala
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1104-coloring-a-border](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1104-coloring-a-border) |
+| [1396-count-servers-that-communicate](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -413,6 +416,7 @@ Solutions are in C++, Java, Scala
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1104-coloring-a-border) |
+| [1396-count-servers-that-communicate](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -424,6 +428,7 @@ Solutions are in C++, Java, Scala
 | [0547-number-of-provinces](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1396-count-servers-that-communicate](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1753-path-with-minimum-effort) |
 ## Graph
@@ -507,6 +512,7 @@ Solutions are in C++, Java, Scala
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0347-top-k-frequent-elements) |
+| [1396-count-servers-that-communicate](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1983-maximum-population-year](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1983-maximum-population-year) |
