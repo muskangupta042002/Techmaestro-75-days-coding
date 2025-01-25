@@ -128,6 +128,7 @@ Solutions are in C++, Java, Scala
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2792-neighboring-bitwise-xor) |
 | [3034-points-that-intersect-with-cars](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3034-points-that-intersect-with-cars) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -214,6 +215,7 @@ Solutions are in C++, Java, Scala
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -431,6 +433,7 @@ Solutions are in C++, Java, Scala
 | [1396-count-servers-that-communicate](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1753-path-with-minimum-effort) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
 |  |
 | ------- |
