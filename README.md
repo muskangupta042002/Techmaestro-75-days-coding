@@ -397,6 +397,7 @@ Solutions are in C++, Java, Scala
 | [1396-count-servers-that-communicate](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1753-path-with-minimum-effort) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -446,11 +447,13 @@ Solutions are in C++, Java, Scala
 | [1442-number-of-operations-to-make-network-connected](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Topological Sort
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
