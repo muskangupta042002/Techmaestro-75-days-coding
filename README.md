@@ -129,6 +129,7 @@ Solutions are in C++, Java, Scala
 | [2792-neighboring-bitwise-xor](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2792-neighboring-bitwise-xor) |
 | [3034-points-that-intersect-with-cars](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3034-points-that-intersect-with-cars) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
