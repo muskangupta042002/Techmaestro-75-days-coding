@@ -28,21 +28,44 @@ class Solution {
         // return maxLen >= 3 ? maxLen : 0; // Return 0 if no valid sequence
 
 
-        Set<Integer> s = new HashSet<>();
-        for(int x: arr){
-            s.add(x);
-        }
+        // Set<Integer> s = new HashSet<>();
+        // for(int x: arr){
+        //     s.add(x);
+        // }
 
-        int res=2;
-        for(int i=0;i<arr.length;i++){
-            for(int j=i+1;j<arr.length;j++){
-                int a= arr[i], b=arr[j], l=2;
-                while(s.contains(a+b)){
-                    b=a+b; a=b-a; l++;
+        // int res=2;
+        // for(int i=0;i<arr.length;i++){
+        //     for(int j=i+1;j<arr.length;j++){
+        //         int a= arr[i], b=arr[j], l=2;
+        //         while(s.contains(a+b)){
+        //             b=a+b; a=b-a; l++;
+        //         }
+        //         res=Math.max(res,l);
+        //     }
+        // }
+        // return res>2 ? res : 0;
+
+        int n=arr.length;
+        int maxLen=0;
+        int[][] dp = new int[n][n];
+
+        Map<Integer, Integer> valToIdx = new HashMap<>();
+        for(int curr=0; curr<n; curr++){
+            valToIdx.put(arr[curr], curr);
+            for(int prev=0;prev<curr;prev++){
+                int diff=arr[curr]-arr[prev];
+                int prevIdx = valToIdx.getOrDefault(diff, -1);
+
+                if(diff<arr[prev] && prevIdx >= 0){
+                    dp[prev][curr] = dp[prevIdx][prev]+1;
                 }
-                res=Math.max(res,l);
+                else{
+                    dp[prev][curr] = 2;
+                }
+                 maxLen = Math.max(maxLen,dp[prev][curr]);
             }
+           
         }
-        return res>2 ? res : 0;
+        return maxLen > 2? maxLen : 0;
     }
 }
