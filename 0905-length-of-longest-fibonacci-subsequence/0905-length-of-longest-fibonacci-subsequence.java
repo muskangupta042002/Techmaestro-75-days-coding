@@ -45,27 +45,50 @@ class Solution {
         // }
         // return res>2 ? res : 0;
 
+        // int n=arr.length;
+        // int maxLen=0;
+        // int[][] dp = new int[n][n];
+
+        // Map<Integer, Integer> valToIdx = new HashMap<>();
+        // for(int curr=0; curr<n; curr++){
+        //     valToIdx.put(arr[curr], curr);
+        //     for(int prev=0;prev<curr;prev++){
+        //         int diff=arr[curr]-arr[prev];
+        //         int prevIdx = valToIdx.getOrDefault(diff, -1);
+
+        //         if(diff<arr[prev] && prevIdx >= 0){
+        //             dp[prev][curr] = dp[prevIdx][prev]+1;
+        //         }
+        //         else{
+        //             dp[prev][curr] = 2;
+        //         }
+        //          maxLen = Math.max(maxLen,dp[prev][curr]);
+        //     }
+           
+        // }
+
         int n=arr.length;
         int maxLen=0;
         int[][] dp = new int[n][n];
 
-        Map<Integer, Integer> valToIdx = new HashMap<>();
-        for(int curr=0; curr<n; curr++){
-            valToIdx.put(arr[curr], curr);
-            for(int prev=0;prev<curr;prev++){
-                int diff=arr[curr]-arr[prev];
-                int prevIdx = valToIdx.getOrDefault(diff, -1);
-
-                if(diff<arr[prev] && prevIdx >= 0){
-                    dp[prev][curr] = dp[prevIdx][prev]+1;
+        for(int curr=2; curr<n; curr++){
+            int start = 0, end =curr-1;
+            while(start<end){
+                int sum=arr[start]+arr[end];
+                if(sum>arr[curr]){
+                    end--;
+                }
+                else if(sum<arr[curr]){
+                    start++;
                 }
                 else{
-                    dp[prev][curr] = 2;
+                    dp[end][curr] = dp[start][end]+1;
+                    maxLen = Math.max(dp[end][curr],maxLen);
+                    end--;
+                    start++;
                 }
-                 maxLen = Math.max(maxLen,dp[prev][curr]);
             }
-           
         }
-        return maxLen > 2? maxLen : 0;
+        return maxLen !=0? maxLen+2 : 0;
     }
 }
