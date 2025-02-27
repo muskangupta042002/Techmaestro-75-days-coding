@@ -113,6 +113,7 @@ Solutions are in C++, Java, Scala
 | [1694-make-sum-divisible-by-p](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1753-path-with-minimum-effort](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1753-path-with-minimum-effort) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1876-map-of-highest-peak) |
 | [1923-sentence-similarity-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -281,6 +282,7 @@ Solutions are in C++, Java, Scala
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Math
 |  |
 | ------- |
