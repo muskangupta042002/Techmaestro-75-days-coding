@@ -129,6 +129,7 @@ Solutions are in C++, Java, Scala
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2792-neighboring-bitwise-xor) |
 | [3034-points-that-intersect-with-cars](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3034-points-that-intersect-with-cars) |
@@ -164,6 +165,7 @@ Solutions are in C++, Java, Scala
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3034-points-that-intersect-with-cars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -182,6 +184,7 @@ Solutions are in C++, Java, Scala
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
