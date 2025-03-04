@@ -304,6 +304,7 @@ Solutions are in C++, Java, Scala
 | [0976-minimum-area-rectangle](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1370-count-number-of-nice-subarrays) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Combinatorics
 |  |
 | ------- |
