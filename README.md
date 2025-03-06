@@ -135,6 +135,7 @@ Solutions are in C++, Java, Scala
 | [2792-neighboring-bitwise-xor](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2792-neighboring-bitwise-xor) |
 | [3034-points-that-intersect-with-cars](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3034-points-that-intersect-with-cars) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -169,6 +170,7 @@ Solutions are in C++, Java, Scala
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3034-points-that-intersect-with-cars) |
+| [3227-find-missing-and-repeated-values](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -306,6 +308,7 @@ Solutions are in C++, Java, Scala
 | [1370-count-number-of-nice-subarrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1370-count-number-of-nice-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3227-find-missing-and-repeated-values) |
 ## Combinatorics
 |  |
 | ------- |
@@ -327,6 +330,7 @@ Solutions are in C++, Java, Scala
 | [1753-path-with-minimum-effort](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2685-first-completely-painted-row-or-column) |
+| [3227-find-missing-and-repeated-values](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
