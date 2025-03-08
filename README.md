@@ -351,6 +351,7 @@ Solutions are in C++, Java, Scala
 | [1923-sentence-similarity-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1923-sentence-similarity-iii) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2232-adding-spaces-to-a-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -532,6 +533,7 @@ Solutions are in C++, Java, Scala
 | [0966-binary-subarrays-with-sum](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1370-count-number-of-nice-subarrays) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Doubly-Linked List
 |  |
 | ------- |
