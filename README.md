@@ -138,6 +138,7 @@ Solutions are in C++, Java, Scala
 | [3227-find-missing-and-repeated-values](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3429-special-array-i) |
+| [3483-alternating-groups-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -534,6 +535,7 @@ Solutions are in C++, Java, Scala
 | [1046-max-consecutive-ones-iii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1370-count-number-of-nice-subarrays) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3483-alternating-groups-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
