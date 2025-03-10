@@ -174,6 +174,7 @@ Solutions are in C++, Java, Scala
 | [3227-find-missing-and-repeated-values](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -357,6 +358,7 @@ Solutions are in C++, Java, Scala
 | [2691-count-vowel-strings-in-ranges](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -536,6 +538,7 @@ Solutions are in C++, Java, Scala
 | [1370-count-number-of-nice-subarrays](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/1370-count-number-of-nice-subarrays) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/muskangupta042002/Techmaestro-75-days-coding/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
